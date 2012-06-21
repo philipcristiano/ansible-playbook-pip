@@ -1,0 +1,2 @@
+- name: Upgrading Python Pip
+  action: command pip install -U pip
